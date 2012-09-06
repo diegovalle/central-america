@@ -1,0 +1,8 @@
+maps/*.RData
+.Rout
+maps-out/*
+*#
+graphs/*.png
+.RData
+*~
+
