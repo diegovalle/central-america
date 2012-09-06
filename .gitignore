@@ -1,6 +1,9 @@
 maps/*.RData
-.Rout
-maps-out/*
+*.Rout
+maps-out/*.shp
+maps-out/*.dbf
+maps-out/*.prj
+maps-out/*.shx
 *#
 graphs/*.png
 .RData

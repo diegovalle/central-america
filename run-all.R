@@ -1,3 +1,13 @@
+########################################################
+## Author: Diego Valle-Jones
+## Website: www.diegovalle.net
+## Date Created: Thu Sep  6 17:33:20 2012
+## Email: diegovalle at gmail.com
+## Purpose: Analyze violence in Central America and Southern Mexico
+## Copyright (c) Diego Valle-Jones. All rights reserved
+
+
+
 library(RColorBrewer)
 library(lubridate)
 library(ggplot2)

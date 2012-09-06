@@ -1,3 +1,10 @@
+########################################################
+## Author: Diego Valle-Jones
+## Website: www.diegovalle.net
+## Date Created: Thu Sep  6 17:34:00 2012
+## Email: diegovalle at gmail.com
+## Purpose: Load Data 
+## Copyright (c) Diego Valle-Jones. All rights reserved
 
 ##load data homicide data for Central America
 ##from: http://multimedia.laprensagrafica.com/pdf/2011/03/20110322-PDF-Informe-0311-Homicidios-en-Centroamerica.pdf

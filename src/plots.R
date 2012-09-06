@@ -1,3 +1,12 @@
+########################################################
+## Author: Diego Valle-Jones
+## Website: www.diegovalle.net
+## Date Created: Thu Sep  6 17:34:21 2012
+## Email: diegovalle at gmail.com
+## Purpose: Choropleths of Central America and Mexico violence
+## Copyright (c) Diego Valle-Jones. All rights reserved
+
+#Theme to get rid of axis and panels
 theme_nothing <- function() {
   theme_bw() + theme(axis.text.x = element_blank(),
                      axis.title.x = element_blank(),
