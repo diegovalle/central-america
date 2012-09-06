@@ -18,7 +18,6 @@ theme_nothing <- function() {
                      panel.grid.major = element_blank(), 
                      panel.grid.minor = element_blank(), 
                      plot.background = element_blank()) 
-
 }
 
 

@@ -4,6 +4,7 @@ maps-out/*.shp
 maps-out/*.dbf
 maps-out/*.prj
 maps-out/*.shx
+maps-out/*.kml
 *#
 graphs/*.png
 .RData
