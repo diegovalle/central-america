@@ -25,6 +25,7 @@ gpclibPermit()
 source("src/load_data.R")
 source("src/plots.R")
 source("src/writeSHP.R")
+source("src/hom-trend.R")
 
 
 
