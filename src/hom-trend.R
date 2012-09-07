@@ -1,13 +1,20 @@
-hom.ca <- read.csv("data/UNhomicides.csv")
+########################################################
+## Author: Diego Valle-Jones
+## Website: www.diegovalle.net
+## Date Created: Fri Sep  7 18:04:50 2012
+## Email: diegovalle at gmail.com
+## Purpose: Time series of homicides in CA 
+## Copyright (c) Diego Valle-Jones. All rights reserved
+
 
 p <- ggplot(hom.ca, aes(Year, Rate, group = Country.or.Area,
                    color = Country.or.Area)) +
-  geom_line() +
-  xlim(1995, 2014) +
-  opts(title = "Homicide Rates in Central America")
+  geom_line(size = 1.1) +
+  xlim(1995, 2018) +
+  ggtitle("Homicide Rates in Central America")
 direct.label(p, "last.bumpup")
 ggsave("graphs/hom-ca.png", dpi = 100,
-       width = 8, height = 5)
+       width = 9, height = 5)
 
 hom.ca <- subset(hom.ca, Year >= 2000)
 hom.ca <- ddply(hom.ca, .(Country.or.Area), transform,
@@ -15,11 +22,11 @@ hom.ca <- ddply(hom.ca, .(Country.or.Area), transform,
 
 p <- ggplot(hom.ca, aes(Year, per, group = Country.or.Area,
                         color = Country.or.Area)) +
-                          geom_line() +
+                          geom_line(size = 1.1) +
                           scale_y_continuous(labels = percent) +
-                          xlim(1995, 2014) +
+                          xlim(1995, 2017) +
                           ylab("homicide rate as a percentage of that in 2000") +
-                          opts(title = "Homicide Rates in Central America as a Percentage of those in 2000")
+                          ggtitle("Homicide Rates in Central America as a Percentage of those in 2000")
 direct.label(p, "last.bumpup")
 ggsave("graphs/hom-ca-percentage.png", dpi = 100,
-       width = 8, height = 5)
+       width = 9, height = 5)

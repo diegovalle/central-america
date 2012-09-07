@@ -38,4 +38,19 @@ hom <- ddply(hom, .(name),
              hom = sum(V1))
 hom <- unique(hom[,c("id","name", "pop", "hom", "rate")])
 
+##Merge mx municipalities with central american data
 ca <- rbind(ca, hom)
+
+
+##Load simplified maps of municipalities and states
+mx <- readOGR("maps/MUNICIPIOS-50.shp", "MUNICIPIOS-50")
+mx.states <- readOGR("maps/ESTADOS-90.shp", "ESTADOS-90")
+
+
+##homicide data from Police sources in Mexico
+snsp <- read.csv("data/snsp2011.csv", stringsAsFactors = FALSE)
+names(snsp)[1] <- "id"
+
+
+##Time series of homicides in each CA country
+hom.ca <- read.csv("data/UNhomicides.csv")

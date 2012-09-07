@@ -9,4 +9,5 @@ maps-out/*.kml
 graphs/*.png
 .RData
 *~
+.Rhistory
 

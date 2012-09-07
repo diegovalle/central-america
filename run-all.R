@@ -21,11 +21,13 @@ library(rgdal)
 library(geosphere)
 library(raster)
 gpclibPermit()
+theme_set(theme_bw())
 
-source("src/load_data.R")
-source("src/plots.R")
-source("src/writeSHP.R")
-source("src/hom-trend.R")
+source("src/load_data.R") ##load csv and shp files
+source("src/prepare-maps.R") ##download ca maps and merge with mx maps
+source("src/plots.R") ##Choropleths
+source("src/writeSHP.R")  ##Save a shape file for uploading to Fusion Tables
+source("src/hom-trend.R")  ##Time series of homicides
 
 
 

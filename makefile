@@ -7,3 +7,4 @@ all:
 
 clean:
 	rm -f maps-out/*
+	rm -f graphs/*
