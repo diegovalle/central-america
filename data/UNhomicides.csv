@@ -1,0 +1,107 @@
+Country or Area,Year,Count,Rate,Source,Source Type
+Belize,2010,129,41.4,CTS/OAS,CJ
+Belize,2009,97,31.8,CTS/OAS,CJ
+Belize,2008,103,34.4,CTS/OAS,CJ
+Belize,2007,97,33.1,CTS/OAS,CJ
+Belize,2006,92,32.1,CTS/OAS,CJ
+Belize,2005,81,28.8,CTS/OAS,CJ
+Belize,2004,79,28.7,CTS/OAS,CJ
+Belize,2003,67,24.9,CTS/OAS,CJ
+Belize,2002,87,33.1,CTS/OAS,CJ
+Belize,2001,64,24.9,CTS/OAS,CJ
+Belize,2000,41,16.4,CTS/OAS,CJ
+Costa Rica,2010,527,11.3,CTS/Ministry of Justice,CJ
+Costa Rica,2009,525,11.4,CTS/Ministry of Justice,CJ
+Costa Rica,2008,512,11.3,CTS/Ministry of Justice,CJ
+Costa Rica,2007,369,8.3,CTS/Ministry of Justice,CJ
+Costa Rica,2006,351,8,CTS/Ministry of Justice,CJ
+Costa Rica,2005,335,7.8,CTS/Ministry of Justice,CJ
+Costa Rica,2004,280,6.6,CTS/Ministry of Justice,CJ
+Costa Rica,2003,300,7.2,CTS/Ministry of Justice,CJ
+Costa Rica,2002,258,6.3,CTS/Ministry of Justice,CJ
+Costa Rica,2001,257,6.4,CTS/Ministry of Justice,CJ
+Costa Rica,2000,249,6.4,CTS/Ministry of Justice,CJ
+Costa Rica,1999,245,6.4,CTS/Ministry of Justice,CJ
+Costa Rica,1998,224,6,CTS/Ministry of Justice,CJ
+Costa Rica,1997,210,5.8,CTS/Ministry of Justice,CJ
+Costa Rica,1996,189,5.3,CTS/Ministry of Justice,CJ
+Costa Rica,1995,184,5.3,CTS/Ministry of Justice,CJ
+El Salvador,2011,4308,69.2,National police/OAS,CJ
+El Salvador,2010,4005,64.7,National police/OAS,CJ
+El Salvador,2009,4349,70.6,National police/OAS,CJ
+El Salvador,2008,3179,51.9,National police/OAS,CJ
+El Salvador,2007,3497,57.3,National police/OAS,CJ
+El Salvador,2006,3928,64.7,National police/OAS,CJ
+El Salvador,2005,3778,62.4,National police/OAS,CJ
+El Salvador,2004,3897,64.6,National police/OAS,CJ
+El Salvador,2003,3356,55.9,National police/OAS,CJ
+El Salvador,2002,2835,47.3,National police/OAS,CJ
+El Salvador,2001,3590,60.2,National police/OAS,CJ
+El Salvador,2000,3551,59.8,National police/OAS,CJ
+El Salvador,1999,3845,65,National police/OAS,CJ
+El Salvador,1998,5584,95,National police/OAS,CJ
+El Salvador,1997,6573,112.6,National police/OAS,CJ
+El Salvador,1996,6792,117.3,National police/OAS,CJ
+El Salvador,1995,7977,139.1,National police/OAS,CJ
+Guatemala,2011,5681,38.5,CTS/National police,CJ
+Guatemala,2010,5960,41.4,CTS/National police,CJ
+Guatemala,2009,6498,46.3,CTS/National police,CJ
+Guatemala,2008,6292,46,CTS/National police,CJ
+Guatemala,2007,5781,43.3,CTS/National police,CJ
+Guatemala,2006,5885,45.1,CTS/National police,CJ
+Guatemala,2005,5338,42,CTS/National police,CJ
+Guatemala,2004,4507,36.3,CTS/National police,CJ
+Guatemala,2003,4237,35,CTS/National police,CJ
+Guatemala,2002,3631,30.8,CTS/National police,CJ
+Guatemala,2001,3230,28.1,CTS/National police,CJ
+Guatemala,2000,2904,25.8,CTS/National police,CJ
+Guatemala,1999,2655,24.2,CTS/National police,CJ
+Guatemala,1998,3310,30.9,CTS/National police,CJ
+Guatemala,1997,3998,38.1,CTS/National police,CJ
+Guatemala,1996,3619,35.3,CTS/National police,CJ
+Guatemala,1995,3260,32.5,CTS/National police,CJ
+Honduras,2011,7104,91.6,OCAVI/National police,CJ
+Honduras,2010,6239,82.1,OCAVI/National police,CJ
+Honduras,2009,5265,70.7,OCAVI/National police,CJ
+Honduras,2008,4473,61.3,OCAVI/National police,CJ
+Honduras,2007,3262,45.6,OCAVI/National police,CJ
+Honduras,2006,3018,43,OCAVI/National police,CJ
+Honduras,2005,2417,35.1,OCAVI/National police,CJ
+Honduras,2004,2155,32,OCAVI/National police,CJ
+Honduras,2003,2224,33.6,OCAVI/National police,CJ
+Honduras,2002,3629,56,OCAVI/National police,CJ
+Honduras,2001,3488,55,OCAVI/National police,CJ
+Honduras,2000,3176,51.1,OCAVI/National police,CJ
+Honduras,1999,2563,42.1,OCAVI/National police,CJ
+Nicaragua,2010,785,13.6,National police,CJ
+Nicaragua,2009,802,14,National police,CJ
+Nicaragua,2008,736,13.1,National police,CJ
+Nicaragua,2007,714,12.8,National police,CJ
+Nicaragua,2006,722,13.1,National police,CJ
+Nicaragua,2005,729,13.4,National police,CJ
+Nicaragua,2004,646,12.1,National police,CJ
+Nicaragua,2003,635,12,National police,CJ
+Nicaragua,2002,554,10.6,National police,CJ
+Nicaragua,2001,537,10.4,National police,CJ
+Nicaragua,2000,476,9.4,National police,CJ
+Nicaragua,1999,561,11.2,National police,CJ
+Nicaragua,1998,639,13,National police,CJ
+Nicaragua,1997,679,14.1,National police,CJ
+Nicaragua,1996,662,14,National police,CJ
+Nicaragua,1995,707,15.2,National police,CJ
+Panama,2010,759,21.6,National police,CJ
+Panama,2009,818,23.6,National police,CJ
+Panama,2008,654,19.2,National police,CJ
+Panama,2007,444,13.3,National police,CJ
+Panama,2006,371,11.3,National police,CJ
+Panama,2005,364,11.2,National police,CJ
+Panama,2004,308,9.7,National police,CJ
+Panama,2003,338,10.8,National police,CJ
+Panama,2002,380,12.4,National police,CJ
+Panama,2001,306,10.2,National police,CJ
+Panama,2000,299,10.1,National police,CJ
+Panama,1999,285,9.8,National police,CJ
+Panama,1998,281,9.9,National police,CJ
+Panama,1997,315,11.3,National police,CJ
+Panama,1996,248,9.1,National police,CJ
+Panama,1995,377,14.1,National police,CJ

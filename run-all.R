@@ -7,11 +7,12 @@
 ## Copyright (c) Diego Valle-Jones. All rights reserved
 
 
-
+library(directlabels)
 library(RColorBrewer)
 library(lubridate)
 library(ggplot2)
 library(stringr)
+library(scales)
 library(reshape2)
 library(plyr)
 library(reshape)
